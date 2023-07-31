@@ -1,1 +1,2 @@
-# DLS-Project-Multivariate-Timeseries-Forecasting
+# DLS-Project-MT-GNN
+E533 Final Project
