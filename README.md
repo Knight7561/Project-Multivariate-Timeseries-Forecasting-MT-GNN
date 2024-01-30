@@ -1,4 +1,4 @@
-# DLS-Project-MT-GNN
+# Project-MT-GNN (Deep Learning)
 ## Unveiling the Power of MT-GNN: Exploring Spatio-Temporal Modeling
 
 This project delves into the capabilities of MT-GNN, a state-of-the-art model for harnessing the power of graph learning in spatio-temporal analysis. To gauge its effectiveness, we devised several baseline models and pitted them against MT-GNN in a head-to-head comparison.
